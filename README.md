@@ -57,4 +57,4 @@ I am a passionate developer with expertise in Web Development, App Development, 
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=numan682&style=for-the-badge)
