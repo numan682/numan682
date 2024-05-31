@@ -37,7 +37,7 @@ I am a passionate developer with expertise in Web Development, App Development, 
   <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin"/>
   <img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift"/>
   <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android"/>
-  <img src="https://img.icons8.com/color/48/000000/apple-logo.png" alt="iOS"/>
+  <img src="https://img.icons8.com/?size=100&id=30659&format=png&color=000000" alt="iOS"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
