@@ -53,7 +53,7 @@ I am a passionate developer with expertise in Web Development, App Development, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jhnuman)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://facebook.com/jahidulhasan.numan)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github)](https://github.com/numan682
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github)](https://github.com/numan682)
 
 ---
 
